@@ -1,0 +1,9 @@
+{
+	"name": "masonry",
+	"description": "Masonry package for Meteor",
+	"homepage": "https://github.com/electricjesus/meteor-masonry",
+	"author": "electricjesus",
+	"version": "0.1.0",
+	"git": "https://gthub.com/electricjesus/meteor-masonry.git",
+	"packages": {}
+}
